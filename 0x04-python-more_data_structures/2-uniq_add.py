@@ -4,4 +4,4 @@ def uniq_add(my_list=[]):
     rem = 0
     for z in uni:
         uni += z
-    return uni
+    return rem
