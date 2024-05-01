@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Program that Take in a URL and email, send POST request, and display body of response
+it take in a URL and email, send POST request, and display body of response
 decoded in utf-8
 """
 import sys
